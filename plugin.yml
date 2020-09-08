@@ -1,0 +1,7 @@
+name: TMB-CRAFT-2.0
+version: 1.0
+main: at.lucas.craft.utils.Main
+author: TheLucas777
+commands:
+  start:
+    description: Starte den Countdown
